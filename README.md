@@ -16,6 +16,7 @@
 <p>Rigorous training in data modeling analysis methodologies further enhances the ability to extract actionable insights from complex datasets, making them valuable assets in today's data-driven landscape.</p>
 
 <h2 class="HeaderSkills">Technical & Soft Skills</h2>
+<p><a href="Images/Esther Obieme Resume.pdf"><b>Resume</b></a></p>
 <p>The skills listed in the table below reflect a synthesis of academic, extracurricular, and volunteer experiences, showcasing a comprehensive approach to skill development. Each entry represents the integration of dedicated learning and practical application, forming a flexible and adaptable skill set.</p>
 
 <table>
