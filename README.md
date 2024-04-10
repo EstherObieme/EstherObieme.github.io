@@ -77,12 +77,15 @@
     
 
 <h2>Projects</h2>
-    <ul>
-        <li>Project 1: Fundamental</li>
-        <li>Project 2: Implementation</li>
-        <li>Project 3: Database Construction</li>
-        <li>Project 4: Backup & Recovery</li>
-    </ul>
+<nav class="menu">
+  <ul>
+    <li><a href="#">Project 1: Fundamental</a></li>
+    <li><a href="#">Project 2: Implementation</a></li>
+    <li><a href="#">Project 3: Database Construction</</a></li>
+    <li><a href="#">Project 4: Backup & Recovery</a></li>
+  </ul>
+</nav>
+  
 
 <h2>Social Media</h2>
     <ul>
