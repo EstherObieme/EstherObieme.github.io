@@ -2,5 +2,9 @@
 Date: 2024-04-10*/
 
 .HeaderSkills {
-  padding-top: 30px
+  padding-top: 50px
+}
+
+tbody {
+ background-color: rgb(228 240 245);
 }
