@@ -77,7 +77,7 @@
     </table>
     
 
-<h2 class="space">Projects</h2>
+<h2 class="space2">Projects</h2>
 <nav class="menu">
   <ul>
     <li><a href="Foundamental.md">Project 1: Fundamental</a></li>
