@@ -1,3 +1,6 @@
+<head>
+    <link rel="Design" type="text/css" href="Design.css">
+</head>
 # IT Database Administrator
 Information Technology, Diploma
 
@@ -13,7 +16,7 @@ Information Technology, Diploma
   
 </p>
 
-## Technical & Soft Skills
+<h2 class="headerskills">Technical & Soft Skills</h2>
 <p>The skills listed in the table below reflect a synthesis of academic, extracurricular, and volunteer experiences, showcasing a comprehensive approach to skill development. Each entry represents the integration of dedicated learning and practical application, forming a flexible and adaptable skill set.</p>
 
 |Technical Skills | Soft Skills|
