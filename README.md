@@ -80,10 +80,10 @@
 <h2 class="space2">Projects</h2>
 <nav class="menu">
   <ul>
-    <li><a href="Foundamental.md">Project 1: Data Wrangling</a></li>
+    <li><a href="Wrangling.md">Project 1: Data Wrangling</a></li>
     <li><a href="Implementation.md">Project 2: Database Implementation</a></li>
-    <li><a href="Database.md">Project 3: Linux CLI</a></li>
-    <li><a href="Backup.md">Project 4: Server Implementation</a></li>
+    <li><a href="Linux.md">Project 3: Linux CLI</a></li>
+    <li><a href="Server.md">Project 4: Server Implementation</a></li>
   </ul>
 </nav>
   
