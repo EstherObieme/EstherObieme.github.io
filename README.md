@@ -81,7 +81,7 @@
   <ul>
     <li><a href="Foundamental.md">Project 1: Fundamental</a></li>
     <li><a href="Implementation.md">Project 2: Implementation</a></li>
-    <li><a href="Database.md">Project 3: Database Construction</</a></li>
+    <li><a href="Database.md">Project 3: Database Construction</a></li>
     <li><a href="Backup.md">Project 4: Backup & Recovery</a></li>
   </ul>
 </nav>
