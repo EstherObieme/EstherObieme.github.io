@@ -80,8 +80,8 @@
 <h2 class="space2">Projects</h2>
 <nav class="menu">
   <ul>
-    <li><a href="Wrangling.md">Project 1: Data Wrangling</a></li>
-    <li><a href="Implementation.md">Project 2: Database Implementation</a></li>
+    <li><a href="/2024/DBAS3035 Project 2.pdf">Project 1: Database Implementation (Part 1)</a></li>
+    <li><a href="/2024/Fraud 1.pdf">Project 2: Database Implementation (Part 2)</a></li>
     <li><a href="Linux.md">Project 3: Linux CLI</a></li>
     <li><a href="Server.md">Project 4: Server Implementation</a></li>
   </ul>
