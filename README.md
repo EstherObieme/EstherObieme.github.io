@@ -89,14 +89,13 @@
 
 <h2>Social Media</h2>
     <ul>
-        <li>LinkedIn</li>
-        <li>Github</li>
+        <li><a href="https://www.linkedin.com/in/esther-obieme/">LinkedIn</a></li>
     </ul>
 
 <h2>Contact</h2>
     <ul>
-        <li>Email: esther4onyin@gmail.com</li>
-        <li>Phone: (902)-579-8526</li>
+        <li><a href="mailto:esther4onyin@gmail.com">Email: esther4onyin@gmail.com</a></li>
+        <li><a href="tel:9025798526">Phone: (902)-579-8526</a></li>
     </ul>
 </body>
 </html>
