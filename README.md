@@ -1,9 +1,10 @@
 # IT Database Administrator
 2022 - 2024
-
-### Education
 Information Technology, Diploma 
-  - **Nova Scotia Community College (NSCC)**
+![nscc logo!](/Images/nscc.png)
+
+## Education
+**Nova Scotia Community College (NSCC)**
 
 ### Technical & Soft Skills
 
