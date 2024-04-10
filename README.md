@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,9 +18,64 @@
 <h2 class="headerskills">Technical & Soft Skills</h2>
 <p>The skills listed in the table below reflect a synthesis of academic, extracurricular, and volunteer experiences, showcasing a comprehensive approach to skill development. Each entry represents the integration of dedicated learning and practical application, forming a flexible and adaptable skill set.</p>
 
-|Technical Skills | Soft Skills|
-|:--- | ---:|
-|Database Management | Communication|
+<table>
+        <thead>
+            <tr>
+                <th>Technical Skills</th>
+                <th>Soft Skills</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Database Management</td>
+                <td>Communication</td>
+            </tr>
+        </tbody>
+    <tbody>
+            <tr>
+                <td>Business Analysis</td>
+                <td>Adaptability</td>
+            </tr>
+        </tbody>
+    <tbody>
+            <tr>
+                <td>Data Wrangling</td>
+                <td>Multitasking</td>
+            </tr>
+        </tbody>
+    <tbody>
+            <tr>
+                <td>Python</td>
+                <td>Critical Thinking</td>
+            </tr>
+        </tbody>
+    <tbody>
+            <tr>
+                <td>Database Backup & Management</td>
+                <td>Documentation</td>
+            </tr>
+        </tbody>
+    <tbody>
+            <tr>
+                <td>Bash Scripting</td>
+                <td>Troubleshooting</td>
+            </tr>
+        </tbody>
+     <tbody>
+            <tr>
+                <td>Linux CLI</td>
+                <td>Organization</td>
+            </tr>
+        </tbody>
+    </table>
+    <tbody>
+            <tr>
+                <td>SQL</td>
+                <td>Time Management</td>
+            </tr>
+        </tbody>
+</table>
+    
 
 <h2>Projects</h2>
     <ul>
@@ -43,5 +97,4 @@
         <li>Phone: (902)-579-8526</li>
     </ul>
 </body>
-</html>
 </html>
