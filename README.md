@@ -79,7 +79,7 @@
 <h2>Projects</h2>
 <nav class="menu">
   <ul>
-    <li><a href="#">Project 1: Fundamental</a></li>
+    <li><a href="Foundamental.md">Project 1: Fundamental</a></li>
     <li><a href="#">Project 2: Implementation</a></li>
     <li><a href="#">Project 3: Database Construction</</a></li>
     <li><a href="#">Project 4: Backup & Recovery</a></li>
