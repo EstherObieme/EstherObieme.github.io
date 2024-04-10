@@ -3,7 +3,7 @@
 
 ### Education
 Information Technology, Diploma 
-  **Nova Scotia Community College (NSCC)**
+  - **Nova Scotia Community College (NSCC)**
 
 ### Technical & Soft Skills
 
