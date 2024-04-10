@@ -39,19 +39,19 @@
         </tbody>
     <tbody>
             <tr>
-                <td>Data Wrangling</td>
+                <td>Database Backup</td>
                 <td>Multitasking</td>
             </tr>
         </tbody>
     <tbody>
             <tr>
-                <td>Python</td>
+                <td>Data Wrangling</td>
                 <td>Critical Thinking</td>
             </tr>
         </tbody>
     <tbody>
             <tr>
-                <td>Database Backup & Management</td>
+                <td>Python</td>
                 <td>Documentation</td>
             </tr>
         </tbody>
@@ -67,14 +67,13 @@
                 <td>Organization</td>
             </tr>
         </tbody>
-    </table>
     <tbody>
             <tr>
                 <td>SQL</td>
                 <td>Time Management</td>
             </tr>
         </tbody>
-</table>
+    </table>
     
 
 <h2>Projects</h2>
