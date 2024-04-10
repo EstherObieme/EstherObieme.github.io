@@ -23,19 +23,25 @@
 |:--- | ---:|
 |Database Management | Communication|
 
-## Projects
-- Project 1: Fundamental
-- Project 2: Implementation
-- Project 3: Database Construction
-- Project 4: Backup & Recovery
+<h2>Projects</h2>
+    <ul>
+        <li>Project 1: Fundamental</li>
+        <li>Project 2: Implementation</li>
+        <li>Project 3: Database Construction</li>
+        <li>Project 4: Backup & Recovery</li>
+    </ul>
 
-### Social Meddia
-- LinkedIn
-- Github
+<h2>Social Media</h2>
+    <ul>
+        <li>LinkedIn</li>
+        <li>Github</li>
+    </ul>
 
-### Contact
-- Email: esther4onyin@gmail.com
-- Phone: (902)-579-8526
+<h2>Contact</h2>
+    <ul>
+        <li>Email: esther4onyin@gmail.com</li>
+        <li>Phone: (902)-579-8526</li>
+    </ul>
 </body>
 </html>
 
