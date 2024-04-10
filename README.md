@@ -1,20 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <link rel="Design" type="text/css" href="Design.css">
-# IT Database Administrator
-Information Technology, Diploma
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Database Administrator</title>
+    <link rel="stylesheet" type="text/css" href="Design.css">
 </head>
+<body>
+    <h1>IT Database Administrator</h1>
+    <p>Information Technology, Diploma</p>
+    <p>2022 - 2024</p>
+    <img src="/Images/nscc.png" alt="nscc logo">
 
-2022 - 2024
-
-![nscc logo!](/Images/nscc.png)
-
-## Education
-**Nova Scotia Community College (NSCC)**
+<h2>Education</h2>
+<p><b>Nova Scotia Community College (NSCC)</b></p>
 <p>This IT Database Diploma Program focuses on comprehensive training in database management and security, emphasizing law and ethics surrounding data collection, storage, and usage, as well as user privacy regulations and company policies on data protection. It provides specialized coursework in database design and administration, coupled with proficiency in optimizing performance and ensuring data integrity, equipping graduating students with skills to excel in roles spanning database administration, security, and compliance.</p>
 <p>Rigorous training in data modeling analysis methodologies further enhances the ability to extract actionable insights from complex datasets, making them valuable assets in today's data-driven landscape.</p>
-<p>
-  
-</p>
 
 <h2 class="headerskills">Technical & Soft Skills</h2>
 <p>The skills listed in the table below reflect a synthesis of academic, extracurricular, and volunteer experiences, showcasing a comprehensive approach to skill development. Each entry represents the integration of dedicated learning and practical application, forming a flexible and adaptable skill set.</p>
@@ -22,7 +23,6 @@ Information Technology, Diploma
 |Technical Skills | Soft Skills|
 |:--- | ---:|
 |Database Management | Communication|
-
 
 ## Projects
 - Project 1: Fundamental
@@ -37,4 +37,6 @@ Information Technology, Diploma
 ### Contact
 - Email: esther4onyin@gmail.com
 - Phone: (902)-579-8526
+</body>
+</html>
 
