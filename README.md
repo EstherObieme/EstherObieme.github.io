@@ -1,8 +1,8 @@
 <head>
     <link rel="Design" type="text/css" href="Design.css">
-</head>
 # IT Database Administrator
 Information Technology, Diploma
+</head>
 
 2022 - 2024
 
