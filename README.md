@@ -77,7 +77,7 @@
     </table>
     
 
-<h2>Projects</h2>
+<h2 class="space">Projects</h2>
 <nav class="menu">
   <ul>
     <li><a href="Foundamental.md">Project 1: Fundamental</a></li>
@@ -88,12 +88,12 @@
 </nav>
   
 
-<h2>Social Media</h2>
+<h2 class="space">Social Media</h2>
     <ul>
         <li><a href="https://www.linkedin.com/in/esther-obieme/">LinkedIn</a></li>
     </ul>
 
-<h2>Contact</h2>
+<h2 class="space">Contact</h2>
     <ul>
         <li><a href="mailto:esther4onyin@gmail.com">Email: esther4onyin@gmail.com</a></li>
         <li><a href="tel:9025798526">Phone: (902)-579-8526</a></li>
