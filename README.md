@@ -1,5 +1,6 @@
 # IT Database Administrator
-Information Technology, Diploma 
+Information Technology, Diploma
+
 2022 - 2024
 
 ![nscc logo!](/Images/nscc.png)
